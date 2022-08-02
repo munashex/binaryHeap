@@ -1,0 +1,8 @@
+binary tree 
+bst is a type binary trees 
+
+tree 
+linked list 
+heap 
+graphs 
+time complexity 
